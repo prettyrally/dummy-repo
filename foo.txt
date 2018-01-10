@@ -1,1 +1,2 @@
 ddkdkkdkdk
+Testing 3-way merge and squash commit 
