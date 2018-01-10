@@ -5,4 +5,3 @@ squash commit 2
 squash commit 3
 edit by prettyrally, testing for conflict PR
 this is a conflictive line
-edit by prettyrally, testing for conflict PR
