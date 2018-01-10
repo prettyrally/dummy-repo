@@ -1,2 +1,3 @@
 crazy.txt
 Edit crazy.txt by prettyrall account
+squash commit 1
